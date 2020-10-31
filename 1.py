@@ -1,3 +1,3 @@
 
 def main():
-  console.log("hello worldss")
+  console.log("goodbye world")
